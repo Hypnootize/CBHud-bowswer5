@@ -1,18 +1,14 @@
-# CBHud bowswer5
+<div align="center">
 
-<a>LINKS</a>
-====
+# CBHud-bowswer5
+### By bowswer5
 
-[TeamFortress.tv](https://www.teamfortress.tv/33738/ive-updated-some-huds)
+**[SCREENSHOTS](../screenshots/showcase.md)** -
+**[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
+**[CONTRIBUTING](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/contributing/github_contributing.md)**
 
-[Screenshot Album](https://imgur.com/a/fELtIFG)
-
-[Changelogs](https://github.com/Hypnootize/CBHud-bowswer5/commits/master)
-
-[Installation](https://imgur.com/a/w3Ah6)
-
-![](https://i.imgur.com/KF410Oe.jpg)
-
-<a>CREDITS</a>
-====
-**Created By:** Cold Balls - bowswer5
+![Main Menu](../screenshots/01_Main_Menu.jpg)
+![Health Buff](../screenshots/02_Health_Buff.jpg)
+![Health & Ammo Low](../screenshots/03_Health_Ammo_Low.jpg)
+![Scoreboard](../screenshots/08_Scoreboard.jpg)
+![Win & Damage](../screenshots/06_Win.jpg)
